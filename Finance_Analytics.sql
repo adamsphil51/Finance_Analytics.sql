@@ -1,7 +1,6 @@
--- =====================================================
 -- Project: Finance_Analytics
 -- Purpose: Analyze revenue, costs, profit margins for drug sales
--- =====================================================
+
 
 -- 1. Drugs table
 CREATE TABLE Drugs (
